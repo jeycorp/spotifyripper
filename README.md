@@ -56,4 +56,5 @@ prerequisites:
 TODO:
 ------
 - [ ] detect if other spotify instance is interrupting
+- [ ] identify if exist api key
 
