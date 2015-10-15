@@ -57,4 +57,5 @@ TODO:
 ------
 - [ ] detect if other spotify instance is interrupting
 - [ ] identify if exist api key
+- [ ] change progress bar From .......  to more human visible 
 
